@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1667777339 source:c:\users\sofibarbona\desktop\archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Arbol.h"
+
+1667777320 c:\users\sofibarbona\desktop\archivos\arbol.h
+
+1667778463 source:c:\users\sofibarbona\desktop\archivos\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Arbol.h"
+
+1667778518 source:c:\users\sofibarbona\desktop\archivos\archivos\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Arbol.h"
+
+1667777320 c:\users\sofibarbona\desktop\archivos\archivos\arbol.h
+
+1667777339 source:c:\users\sofibarbona\desktop\archivos\archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Arbol.h"
+
+1668020293 source:d:\materias dadas\1. programación de computadoras\practica parcial\archivos\archivos\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Arbol.h"
+
+1667777320 d:\materias dadas\1. programación de computadoras\practica parcial\archivos\archivos\arbol.h
+
+1667777339 source:d:\materias dadas\1. programación de computadoras\practica parcial\archivos\archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Arbol.h"
+
